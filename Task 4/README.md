@@ -1,3 +1,4 @@
+![1642532597169](https://user-images.githubusercontent.com/95522797/227785726-b575e659-2d62-4eab-8cb8-d6028d1e4567.jpeg)
 
 # Task 4 - EMAIL SPAM DETECTION WITH MACHINE LEARNING
 We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
