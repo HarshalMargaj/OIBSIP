@@ -17,3 +17,6 @@ Python
 
 Google Colab
 
+# GUI
+
+<img width="845" alt="Screenshot 2023-03-26 at 9 46 00 PM" src="https://user-images.githubusercontent.com/95522797/229304699-dda37130-44ae-46dd-9c8e-a6f736251dee.png">
